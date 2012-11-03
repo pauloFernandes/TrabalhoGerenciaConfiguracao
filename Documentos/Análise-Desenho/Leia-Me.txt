@@ -1,0 +1,28 @@
+Requerimentos: 
+__________________
+
+- Servidor com PHP (Apache) 
+- Mysql 5.2 ou Superior
+
+
+
+Instalação:
+__________________
+
+- Fazer upload dos arquivos para o servidor.
+- Criar banco de dados e usuário no servidor
+- Alterar as informações de Banco de Dados no arquivo conexao.php (/control/conexao.php) 
+- Importar o arquivo SQL (banco.sql) pelo PhpmYadmin.
+
+
+Sistema exemplo em funcionamento:
+__________________
+
+- Link: http://bhmidia.com.br/psi
+
+
+
+Suporte Técnico
+__________________
+
+- Contactar equipe responsável pelo trabalho.

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<reg>
+<Item>
+        <paciente_nome>Petronio Lopes</paciente_nome>
+        <paciente_categoria>Aluno</paciente_categoria>
+        <paciente_datanascimento>14/01/1980</paciente_datanascimento>
+        <paciente_cpf>123.456.789-09</paciente_cpf>
+        <paciente_endereco>Av Jose Faria da Rocha,1876</paciente_endereco>
+        <paciente_telefone>(31) 8885-8896</paciente_telefone>
+</Item>
+
+<Item>
+        <paciente_nome>Marivaldo Gomes</paciente_nome>
+        <paciente_categoria>Professor</paciente_categoria>
+        <paciente_datanascimento>14/01/1980</paciente_datanascimento>
+        <paciente_cpf>123.456.789-09</paciente_cpf>
+        <paciente_endereco>Av Jose Faria da Rocha,1876</paciente_endereco>
+        <paciente_telefone>(31) 8885-8896</paciente_telefone>
+</Item>
+
+<Item>
+        <paciente_nome>Janaina Pereira</paciente_nome>
+        <paciente_categoria>Aluno</paciente_categoria>
+        <paciente_datanascimento>14/01/1980</paciente_datanascimento>
+        <paciente_cpf>123.456.789-09</paciente_cpf>
+        <paciente_endereco>Av Jose Faria da Rocha,1876</paciente_endereco>
+        <paciente_telefone>(31) 8885-8896</paciente_telefone>
+</Item>
+</reg>
